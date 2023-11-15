@@ -28,7 +28,7 @@ I web scraped wikipedia data of Shark tank season 1 and transformed it using Exc
 
 ### Take a look at the dataset sources and my Jupyter Notebook to understand step by step analysis.
 
-Dataset Link:<br>
+Dataset Link:
 <a href="https://github.com/Swapppyy/EDA-on-Shark-Tank-India/blob/main/data.csv"><code>Click here</code></a>
 
 My Notebook: 
